@@ -1,0 +1,23 @@
+ResNet50:
+Epoch: 20
+image_size: 224 * 224
+Test Results - loss: sparse_categorical_crossentropy
+Total images to be predicted:  53
+Number of wrong predictions  2
+++++++++++++++++++++++++++++++++++
+Test Results - loss: Focal_Loss:
+Total images to be predicted:  53
+Number of wrong predictions:  0
+---------------------------------
+---------------------------------
+---------------------------------
+InceptionV3:
+Epoch: 20
+image_size: 224 * 224
+Test Results - loss: sparse_categorical_crossentropy:
+Total images to be predicted:  53
+Number of wrong predictions:  2
+++++++++++++++++++++++++++++++++++
+Test Results - loss: Focal_Loss:
+Total images to be predicted:  53
+Number of wrong predictions:  1
